@@ -3,8 +3,8 @@
 ## Dependecies
 
 NodeJS - v14.18.1  
-npm - 6.14.15  
-Angular CLI - 12.2.10
+npm - v6.14.15  
+Angular CLI - v12.2.10
 
 ## Setting up
 
